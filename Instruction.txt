@@ -1,0 +1,11 @@
+Project Goal:
+
+Design a prompt that extracts Name, Email, Phone Number, and City from unstructured text and returns the result as valid JSON.
+
+Requirements:
+
+1. Use delimiters.
+2. Implement few-shot prompting.
+3. Return only JSON.
+4. Handle missing values with null.
+5. Maintain deterministic output structure.
